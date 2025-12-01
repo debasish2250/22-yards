@@ -48,7 +48,7 @@
 1. Clone the repository:
 ```bash
 git clone https://github.com/debasish2250/22-yards
-cd inningz
+cd 22-yards
 ```
 
 2. Install dependencies:
