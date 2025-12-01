@@ -1,4 +1,4 @@
-# 🏏 Inningz - Live Cricket Score Tracker
+# 🏏 22 Yards - Live Cricket Score Tracker
 
 <div align="center">
 
@@ -9,7 +9,7 @@
 
 </div>
 
-<p align='center'><strong>Inningz</strong> is a modern, blazing-fast web application that delivers real-time cricket scores, insightful statistics, and detailed player information right to your fingertips. Built for cricket enthusiasts, it provides a seamless and engaging experience across all devices.
+<p align='center'><strong>22 Yards</strong> is a modern, blazing-fast web application that delivers real-time cricket scores, insightful statistics, and detailed player information right to your fingertips. Built for cricket enthusiasts, it provides a seamless and engaging experience across all devices.
 </p>
 
 ---
@@ -47,7 +47,7 @@
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/vanshaj-pahwa/Inningz.git
+git clone https://github.com/debasish2250/22-yards
 cd inningz
 ```
 
@@ -146,5 +146,5 @@ We welcome contributions! Here's how you can help:
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 <div align="center">
-  <sub>Built with ❤️ by <a href="https://github.com/vanshaj-pahwa">Vanshaj Pahwa</a></sub>
+  <sub>Built with ❤️ by <a href="https://github.com/debasish2250/">Debasish Rout</a></sub>
 </div>
