@@ -1,7 +1,18 @@
 # 🏏 22 Yards - Live Cricket Score Tracker
 
+<div align="center">
+
+[![Next.js](https://img.shields.io/badge/Next.js-13+-black?logo=next.js)](https://nextjs.org/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-5.0+-blue?logo=typescript)](https://www.typescriptlang.org/)
+[![Tailwind](https://img.shields.io/badge/Tailwind-3.0+-38B2AC?logo=tailwind-css)](https://tailwindcss.com/)
+[![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
+
+</div>
+
 <p align='center'><strong>22 Yards</strong> is a modern, blazing-fast web application that delivers real-time cricket scores, insightful statistics, and detailed player information right to your fingertips. Built for cricket enthusiasts, it provides a seamless and engaging experience across all devices.
 </p>
+
+---
 
 ## ✨ Features
 
@@ -22,6 +33,42 @@
 | **UI Components** | [Radix UI](https://www.radix-ui.com/) & [shadcn/ui](https://ui.shadcn.com) |
 | **Data Fetching** | Server-side rendering with Next.js                                         |
 | **Data Source**   | Web scraping using Cheerio                                                 |
+
+## 🚀 Getting Started
+
+### Prerequisites
+
+- Node.js 16.x or later
+- npm or yarn package manager
+
+### Installation
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/debasish2250/22-yards
+cd 22-yards
+```
+
+2. Install dependencies:
+
+```bash
+npm install
+# or
+yarn install
+```
+
+3. Start the development server:
+
+```bash
+npm run dev
+# or
+yarn dev
+```
+
+4. Open [http://localhost:3000](http://localhost:3000) in your browser
+
+Your local development environment is now ready! 🎉
 
 ## 🎯 Features Breakdown
 
@@ -76,6 +123,29 @@ Built with performance and user experience in mind:
 - 🎨 **Modern Interface**: Clean and intuitive design
 </details>
 
+## 🤝 Contributing
+
+We welcome contributions! Here's how you can help:
+
+1. Fork the repository
+2. Create your feature branch:
+   ```bash
+   git checkout -b feature/AmazingFeature
+   ```
+3. Commit your changes:
+   ```bash
+   git commit -m '✨ Add some AmazingFeature'
+   ```
+4. Push to the branch:
+   ```bash
+   git push origin feature/AmazingFeature
+   ```
+5. Open a Pull Request
+
+## 📝 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
 <div align="center">
-  <sub>Built with ❤️ by <a href="https://github.com/debasish2250">Debasish Rout</a></sub>
+  <sub>Built with ❤️ by <a href="https://github.com/debasish2250/">Debasish Rout</a></sub>
 </div>
