@@ -30,6 +30,12 @@ export default function Home() {
       <Sidebar className="backdrop-blur-sm bg-white/50 dark:bg-gray-950/50 border-r border-primary/10">
         <SidebarHeader className="p-6">
           <h1 className="text-3xl font-black font-logo tracking-tight">
+            <img
+              src="/Images/22yards.png"
+              alt="22 Yards"
+              height="100"
+              width="100"
+            />
             <span className="bg-gradient-to-r from-primary via-emerald-500 to-primary bg-clip-text text-transparent">
               22 Yards
             </span>
