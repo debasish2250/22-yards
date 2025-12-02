@@ -94,7 +94,7 @@ export default function Home() {
                 <span>Upcoming</span>
               </SidebarMenuButton>
             </SidebarMenuItem>
-            <SidebarMenuItem>
+            {/*<SidebarMenuItem>
               <SidebarMenuButton
                 onClick={() => setView("news")}
                 isActive={view === "news"}
@@ -105,7 +105,7 @@ export default function Home() {
                     : "hover:bg-gray-100 dark:hover:bg-gray-800/50"
                 }`}
               >
-                {/*<Newspaper className={view === "news" ? "text-primary" : ""} />
+                <Newspaper className={view === "news" ? "text-primary" : ""} />
                 <span>News</span>
               </SidebarMenuButton>
             </SidebarMenuItem>
@@ -121,9 +121,9 @@ export default function Home() {
                 }`}
               >
                 <Trophy className={view === "rankings" ? "text-primary" : ""} />
-                <span>Rankings</span>*/}
+                <span>Rankings</span>
               </SidebarMenuButton>
-            </SidebarMenuItem>
+            </SidebarMenuItem>*/}
           </SidebarMenu>
         </SidebarContent>
       </Sidebar>
