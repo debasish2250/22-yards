@@ -94,7 +94,7 @@ export default function Home() {
                 <span>Upcoming</span>
               </SidebarMenuButton>
             </SidebarMenuItem>
-            {/*<SidebarMenuItem>
+            <SidebarMenuItem>
               <SidebarMenuButton
                 onClick={() => setView("news")}
                 isActive={view === "news"}
@@ -109,7 +109,7 @@ export default function Home() {
                 <span>News</span>
               </SidebarMenuButton>
             </SidebarMenuItem>
-            <SidebarMenuItem>
+            {/*<SidebarMenuItem>
               <SidebarMenuButton
                 onClick={() => setView("rankings")}
                 isActive={view === "rankings"}
